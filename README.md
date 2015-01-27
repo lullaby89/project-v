@@ -1,0 +1,3 @@
+# project-v
+
+MADLIB GAME: a training course/project on the design of a madlib game using jQuery,as well as HTML and CSS...
